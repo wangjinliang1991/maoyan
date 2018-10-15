@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Maoyan.iml" filepath="$PROJECT_DIR$/.idea/Maoyan.iml" />
+      <module fileurl="file://D:/coderman/requests/.idea/requests.iml" filepath="D:/coderman/requests/.idea/requests.iml" />
     </modules>
   </component>
 </project>
